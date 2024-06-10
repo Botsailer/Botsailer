@@ -43,10 +43,12 @@
 <h1 align="center"> Social accounts </h1>
 
 <div align="left">
+  <a href="https://discord.gg/spBGdVDYkw">
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"   />
-
+  </a>
+<a href="https://www.instagram.com/compiler.err0r.404/">
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
-  <h2><a href="https://discord.gg/spBGdVDYkw">join Discord</a>
+</a>
 </div>
 
 ###
