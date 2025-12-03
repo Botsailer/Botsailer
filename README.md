@@ -20,7 +20,7 @@
 ```yaml
 name: HrSGOD
 located_in: Mumbai, India
-current_job: Student
+current_job: Backend developer
 education: Computer Science
 company: Learning Institution
 
