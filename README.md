@@ -96,7 +96,7 @@ hobbies: ["Coding", "Problem Solving", "Creating Bugs 🐛"]
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HrSGOD&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=botsailer&theme=tokyonight" alt="GitHub Streak" />
 </div>
 
 ---
@@ -156,7 +156,7 @@ hobbies: ["Coding", "Problem Solving", "Creating Bugs 🐛"]
   ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
   
   ### 🔥 GitHub Contribution Graph
-  ![](https://github-readme-activity-graph.vercel.app/graph?username=HrSGOD&theme=tokyo-night)
+  ![](https://github-readme-activity-graph.vercel.app/graph?username=botsailer&theme=tokyo-night)
   
   ---
   
