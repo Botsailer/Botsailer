@@ -163,7 +163,7 @@ hobbies: ["Coding", "Problem Solving", "Creating Bugs 🐛"]
   **"Code is like humor. When you have to explain it, it's bad."** – Cory House
   
   <p>
-    <img src="https://komarev.com/ghpvc/?username=HrSGOD&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+    <img src="https://komarev.com/ghpvc/?username=botsailer&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
   </p>
   
 </div>
