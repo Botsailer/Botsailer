@@ -156,6 +156,8 @@ hobbies: ["Coding", "Problem Solving", "Creating Bugs 🐛"]
   
 </div>
 
+<div>https://discordapp.com/api/guilds/770349599679578133/widget.png</div>
+
 ---
 
 <div align="center">
