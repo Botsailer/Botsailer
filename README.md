@@ -301,7 +301,7 @@ graph LR
 
 <div align="center">
 
-[![Discord]([https://img.shields.io/badge/Discord-Join%20Server-5865F2?style=for-the-badge&logo=discord&logoColor=white](https://discord.com/api/guilds/770349599679578133/widget.png?style=banner2))](https://discord.gg/fUawaKSHRX)
+[![Discord Banner](https://discord.com/api/guilds/770349599679578133/widget.png?style=banner2)](https://discord.gg/fUawaKSHRX)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/botsailer)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anup-mishra-05b381258)
 [![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anupm019@gmail.com)
