@@ -1,41 +1,33 @@
 <div align="center">
   <img height="220" src="https://media.tenor.com/JJ_is357rXYAAAAd/spike-monkey-typing.gif" alt="Coding Animation" />
-  
-  # 👋 Hey there! I'm **HrSGOD**
-  ### *aka Botsailer* ⚡🧠
-  
-  <p>
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=900&color=36BCF7&center=true&vCenter=true&width=650&lines=Student+from+Mumbai;Computer+Science+Enthusiast;Backend+Developer+in+Progress;Bug+Creator+%26+Problem+Solver;Breaking+Things+to+Understand+Them;Learning+Something+New+Every+Day" />
-  </p>
+
+  # 👋 Hey there! I'm HrSGOD
+  ## aka Botsailer
 
   <p>
-    <img src="https://komarev.com/ghpvc/?username=botsailer&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
-    <img src="https://img.shields.io/discord/770349599679578133?label=Discord&logo=discord&style=for-the-badge&color=5865F2" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&lines=Student+from+Mumbai;Computer+Science+Enthusiast;Backend+Developer;Bug+Creator+%26+Problem+Solver;Learning+Something+New+Every+Day" />
   </p>
 </div>
 
 ---
 
-## 🚀 About Me
-
-<table>
-<tr>
-<td width="50%">
+## 🚀 About Me (YAML Edition)
 
 ```yaml
-name: HrSGOD
-alias: Botsailer
-located_in: Mumbai, India
-current_role: Backend Developer (Learning Phase)
-education: Computer Science
-organization: Learning Institution
+profile:
+  name: HrSGOD
+  alias: Botsailer
+  location: Mumbai, India
+  role: Backend Developer (Learning Phase)
+  education: Computer Science
+  organization: Learning Institution
 
-core_interests:
+fields_of_interest:
   - Backend Development
-  - System Design
   - APIs & Microservices
-  - Databases & Data Flow
-  - Reverse Engineering (curiosity-driven 😄)
+  - Database Management
+  - System Design
+  - Debugging & Reverse Engineering
 
 currently_learning:
   - Advanced JavaScript
@@ -44,7 +36,77 @@ currently_learning:
   - API Design Patterns
 
 hobbies:
-  - Coding at odd hours
-  - Debugging production-like bugs locally
-  - Creating bugs 🐛 (and fixing them eventually)
+  - Coding
+  - Problem Solving
+  - Creating Bugs 🐛
+  - Fixing Bugs (eventually)
+```
 
+---
+
+## 🧠 Developer Philosophy
+
+```text
+if (something.breaks) {
+  readLogs();
+  reproduceBug();
+  understandRootCause();
+  fix();
+  refactor();
+}
+
+neverTrust("it works on my machine");
+alwaysTrust(logs);
+```
+
+---
+
+## 🛠️ Tech Stack (JSON View)
+
+```json
+{
+  "languages": ["JavaScript", "Python", "HTML", "CSS", "Kotlin"],
+  "frontend": ["React", "CSS3"],
+  "backend": ["Node.js", "Python"],
+  "databases": ["MongoDB"],
+  "tools": ["Git", "Linux", "VS Code"]
+}
+```
+
+---
+
+## 🎯 Current Projects (JavaScript Model)
+
+```javascript
+const HrSGOD = {
+  code: ["JavaScript", "Python", "HTML", "CSS", "Kotlin"],
+  askMeAbout: ["backend", "APIs", "debugging", "databases"],
+  currentFocus: "Building full-stack applications",
+  funFact: "console.log() is my debugger and I'm proud of it!"
+};
+
+export default HrSGOD;
+```
+
+---
+
+## 🌐 Connect With Me
+
+Discord: https://discord.gg/spBGdVDYkw
+Instagram: https://www.instagram.com/compiler.err0r.404/
+
+---
+
+## 📊 GitHub Activity
+
+https://github-readme-activity-graph.vercel.app/graph?username=botsailer&theme=tokyo-night
+
+---
+
+## 🧾 Final Words
+
+Code is like humor.
+When you have to explain it, it's bad.
+
+But when it breaks,
+I want to know WHY.
