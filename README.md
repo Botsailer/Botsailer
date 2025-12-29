@@ -139,77 +139,20 @@ class CurrentStatus:
 
 ---
 
-## 📡 GitHub Telemetry — Raw Signals from Production
-
-> Not vanity stats. Just evidence that code was written, broken, and fixed.
+## 📊 GitHub Stats (The Numbers Don't Lie, But They Sure Are Embarrassing)
 
 <div align="center">
-
-<!-- Core stats (alternative mirror, camo-safe) -->
-<img height="180em"
-     src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api
-     ?username=botsailer
-     &show_icons=true
-     &include_all_commits=true
-     &count_private=true
-     &theme=tokyonight
-     &hide_border=true
-     &bg_color=0D1117
-     &title_color=58A6FF
-     &icon_color=1F6FEB
-     &text_color=C9D1D9" />
-
-<!-- Language distribution (same mirror) -->
-<img height="180em"
-     src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/
-     ?username=botsailer
-     &layout=compact
-     &langs_count=8
-     &theme=tokyonight
-     &hide_border=true
-     &bg_color=0D1117
-     &title_color=58A6FF
-     &text_color=C9D1D9" />
-
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=botsailer&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&text_color=C9D1D9"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=botsailer&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9"/>
 </div>
 
 <div align="center">
-
-<!-- Commit streak (independent service, not camo-prone) -->
-<img
-  src="https://streak-stats.demolab.com
-  ?user=botsailer
-  &theme=tokyonight
-  &hide_border=true
-  &background=0D1117
-  &ring=58A6FF
-  &fire=FFA500
-  &currStreakLabel=C9D1D9" />
-
+  <img src="https://streak-stats.demolab.com/?user=botsailer&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=FFA500&currStreakLabel=C9D1D9" />
 </div>
 
 <div align="center">
-
-<!-- Contribution graph (unique renderer, not the common one) -->
-<img
-  src="https://activity-graph.herokuapp.com/graph
-  ?username=botsailer
-  &bg_color=0D1117
-  &color=58A6FF
-  &line=1F6FEB
-  &point=FFA500
-  &area=true
-  &hide_border=true
-  &custom_title=Contribution%20Heatmap%20(%20aka%20When%20I%20Didn%E2%80%99t%20Sleep%20)" />
-
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=botsailer&custom_title=HrSGOD's%20Contribution%20Graph%20(aka%20My%20Emotional%20Rollercoaster)&bg_color=0D1117&color=58A6FF&line=1F6FEB&point=FFA500&area_color=58A6FF&area=true&hide_border=true&theme=tokyo-night" />
 </div>
-
-```text
-Interpretation Guide:
-- Spikes = learning something new
-- Flat lines = pretending to rest
-- Streaks = caffeine-fueled consistency
-```
 
 ---
 
