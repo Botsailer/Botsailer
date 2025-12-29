@@ -93,7 +93,6 @@ export default HrSGOD;
 ## 🌐 Connect With Me
 
 Discord: https://discord.gg/spBGdVDYkw
-Instagram: https://www.instagram.com/compiler.err0r.404/
 
 ---
 
