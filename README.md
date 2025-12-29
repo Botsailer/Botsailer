@@ -86,19 +86,24 @@ export default me;
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 ### Databases & Backend
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 
 ### Tools & Weapons
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
 
 </details>
 
@@ -139,27 +144,40 @@ class CurrentStatus:
 
 ---
 
-## 📊 GitHub Stats (The Numbers Don't Lie, But They Sure Are Embarrassing)
+## 📊 GitHub Activity & Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=botsailer&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&text_color=C9D1D9"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=botsailer&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9"/>
+
+### 🔥 Commit Streak & Contributions
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats-eight.vercel.app?user=botsailer&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=FFA500&currStreakLabel=C9D1D9" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats-eight.vercel.app?user=botsailer&theme=default&hide_border=true" />
+  <img src="https://github-readme-streak-stats-eight.vercel.app?user=botsailer&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=FFA500&currStreakLabel=C9D1D9" alt="GitHub Streak Stats" />
+</picture>
+
+### 📈 Contribution Graph
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=botsailer&custom_title=HrSGOD's%20Contribution%20Graph%20(aka%20My%20Emotional%20Rollercoaster)&bg_color=0D1117&color=58A6FF&line=1F6FEB&point=FFA500&area_color=58A6FF&area=true&hide_border=true&theme=tokyo-night)
+
 </div>
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com/?user=botsailer&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=FFA500&currStreakLabel=C9D1D9" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=botsailer&custom_title=HrSGOD's%20Contribution%20Graph%20(aka%20My%20Emotional%20Rollercoaster)&bg_color=0D1117&color=58A6FF&line=1F6FEB&point=FFA500&area_color=58A6FF&area=true&hide_border=true&theme=tokyo-night" />
-</div>
+```text
+Interpretation Guide:
+- Spikes = learning something new (or caffeine overdose)
+- Flat lines = pretending to take a break
+- Streaks = forgetting what sleep is
+- Gaps = the WiFi was down (probably)
+```
 
 ---
 
-## 🏆 Achievement Unlocked
+## 🏆 GitHub Achievements & Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=botsailer&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7" />
+  
+![Trophies](https://github-profile-trophy.vercel.app/?username=botsailer&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7)
+
 </div>
 
 ---
@@ -285,7 +303,8 @@ graph LR
 
 [![Discord](https://img.shields.io/badge/Discord-Join%20Server-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/spBGdVDYkw)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/botsailer)
-[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
+[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anupm019@gmail.com)
 
 **⚡ Fun Fact:** I'm currently online and probably debugging something right now
 
@@ -293,7 +312,7 @@ graph LR
 
 ---
 
-## 🎭 Random Dev Meme of the Day
+## 🎭 Random Dev Humor
 
 <div align="center">
   <img src="https://readme-jokes.vercel.app/api?theme=tokyonight&hideBorder" alt="Jokes Card" />
@@ -301,7 +320,7 @@ graph LR
 
 ---
 
-## 💭 Shower Thoughts & Harsh Truths
+## 💭 Expectation vs Reality: A Developer's Journey
 
 <div align="center">
 
@@ -312,6 +331,8 @@ graph LR
 | Semantic commit messages | "Fixed stuff" × 47 |
 | Proper error handling | try-catch-pray pattern |
 | Following best practices | Whatever works™ |
+| 8-hour workday | "Just one more fix" at 3 AM |
+| Understanding my old code | "Who wrote this garbage?" (it was me) |
 
 </div>
 
@@ -400,6 +421,26 @@ sudo rm -rf node_modules && npm install  # Nuclear option
 
 </details>
 
+<details>
+<summary><b>💡 Debugging Wisdom I've Learned the Hard Way</b></summary>
+
+```javascript
+const debuggingLessons = {
+  lesson1: "The bug is never in the framework",
+  lesson2: "The bug is always in your code",
+  lesson3: "When you think you found the bug, there are 3 more",
+  lesson4: "console.log('here') is a valid debugging strategy",
+  lesson5: "If it works, don't ask why",
+  lesson6: "The semicolon is always guilty",
+  lesson7: "Rubber duck debugging actually works",
+  lesson8: "Sleep deprivation is not a feature",
+  lesson9: "git commit before trying anything sketchy",
+  lesson10: "There's always one more bug"
+};
+```
+
+</details>
+
 ---
 
 <div align="center">
@@ -413,6 +454,8 @@ sudo rm -rf node_modules && npm install  # Nuclear option
 ; RET to sanity
 ; JMP to conclusions
 ; NOP (when nothing works)
+; MOV anxiety, MAX
+; INT 21h ; Exit (but never really)
 ```
 
 ### 🎯 Life Goals
@@ -425,12 +468,16 @@ val lifeGoals = listOf(
     "Read error messages before asking for help",
     "Actually finish a side project",
     "Stop using 'any' in TypeScript",  // Impossible
-    "Sleep before 2 AM"  // Also impossible
+    "Sleep before 2 AM",  // Also impossible
+    "Fix a bug without creating two more",  // Myth
+    "Write tests before code",  // Yeah, right
+    "Document my code properly"  // LOL
 )
 
 fun achieveGoals() {
     lifeGoals.forEach { goal ->
         println("$goal: Status = Still Working On It™")
+        Thread.sleep(∞) // Someday...
     }
 }
 ```
@@ -441,7 +488,25 @@ fun achieveGoals() {
 
 ![Current Mood](https://img.shields.io/badge/Current%20Mood-Debugger%20Mode-critical?style=for-the-badge&logo=debug&logoColor=white)
 
-**Translation:** Something is broken and I have no idea why
+**Translation:** Something is broken and I have no idea why (as usual)
+
+---
+
+## 💼 My Actual Skill Set
+
+<div align="center">
+
+| Skill | Proficiency Level |
+|-------|-------------------|
+| Googling Errors | ████████████ 100% |
+| Copy-Pasting from Stack Overflow | ████████████ 100% |
+| Causing Bugs | ████████████ 100% |
+| Fixing Bugs | ████░░░░░░░░ 40% |
+| Understanding My Own Code | ██░░░░░░░░░░ 20% |
+| Work-Life Balance | ░░░░░░░░░░░░ 0% |
+| Saying "It works on my machine" | ████████████ 100% |
+
+</div>
 
 ---
 
@@ -469,6 +534,7 @@ if (you.enjoyed(this.readme)) {
  * 
  * - HrSGOD (aka Botsailer)
  * Mumbai's finest console.log() enthusiast
+ * Professional "works on my machine" practitioner
  */
 ```
 
@@ -476,13 +542,15 @@ if (you.enjoyed(this.readme)) {
   <img src="https://forthebadge.com/images/badges/built-with-love.svg" />
   <img src="https://forthebadge.com/images/badges/powered-by-coffee.svg" />
   <img src="https://forthebadge.com/images/badges/contains-technical-debt.svg" />
+  <img src="https://forthebadge.com/images/badges/ctrl-c-ctrl-v.svg" />
 </div>
 
 ---
 
 <div align="center">
   <sub>⚡ Powered by caffeine, Stack Overflow, and pure determination</sub><br>
-  <sub>🐛 Bugs are features in disguise | 💀 Code first, think later | ☕ Coffee > Sleep</sub>
+  <sub>🐛 Bugs are features in disguise | 💀 Code first, think later | ☕ Coffee > Sleep</sub><br>
+  <sub>Made with ❤️ and a dangerous amount of energy drinks</sub>
 </div>
 
 </div>
