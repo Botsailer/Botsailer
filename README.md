@@ -1,11 +1,11 @@
 <div align="center">
-  <img height="200" src="https://media.tenor.com/JJ_is357rXYAAAAd/spike-monkey-typing.gif" alt="Coding chaos in progress" />
-
-  # 👋 Hi, I'm **HrSGOD**
-  ### *aka Botsailer* 🧠⚡
-
+  <img height="220" src="https://media.tenor.com/JJ_is357rXYAAAAd/spike-monkey-typing.gif" alt="Coding Animation" />
+  
+  # 👋 Hey there! I'm **HrSGOD**
+  ### *aka Botsailer* ⚡🧠
+  
   <p>
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Backend+Developer+in+the+Making;Computer+Science+Student;Breaking+Things+to+Understand+Them;Debugging+Reality+Since+Day+One" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=900&color=36BCF7&center=true&vCenter=true&width=650&lines=Student+from+Mumbai;Computer+Science+Enthusiast;Backend+Developer+in+Progress;Bug+Creator+%26+Problem+Solver;Breaking+Things+to+Understand+Them;Learning+Something+New+Every+Day" />
   </p>
 
   <p>
@@ -16,27 +16,35 @@
 
 ---
 
-## 🧠 About Me (Readable by Humans & Machines)
+## 🚀 About Me
+
+<table>
+<tr>
+<td width="50%">
 
 ```yaml
 name: HrSGOD
 alias: Botsailer
-location: Mumbai, India
-role: Backend Developer (in training)
+located_in: Mumbai, India
+current_role: Backend Developer (Learning Phase)
 education: Computer Science
-status: Actively learning, actively breaking things
+organization: Learning Institution
 
-beliefs:
-  - Bugs are misunderstood features
-  - Reading errors > watching tutorials
-  - If it works, don't touch it (unless curious)
+core_interests:
+  - Backend Development
+  - System Design
+  - APIs & Microservices
+  - Databases & Data Flow
+  - Reverse Engineering (curiosity-driven 😄)
 
-current_focus:
-  - Building scalable backend systems
-  - Understanding how things REALLY work
-  - Turning undocumented behavior into documentation
+currently_learning:
+  - Advanced JavaScript
+  - Node.js Internals
+  - React Ecosystem
+  - API Design Patterns
 
 hobbies:
-  - Coding at ungodly hours
-  - Reverse engineering random stuff
-  - Console.log-driven development
+  - Coding at odd hours
+  - Debugging production-like bugs locally
+  - Creating bugs 🐛 (and fixing them eventually)
+
